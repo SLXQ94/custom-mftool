@@ -1,7 +1,7 @@
 {
 	"get_quote_url": "https://www.amfiindia.com/spages/NAVAll.txt",
 	"get_scheme_url": "https://api.mfapi.in/mf/",
-	"get_amc_details_url": "https://www.amfiindia.com/modules/AMCProfileDetail",
+	"get_amc_details_url": "https://www.amfiindia.com/modules/AboutAMFIDetail",
 	"get_open_ended_equity_scheme_url": "http://www.valueresearchonline.com/amfi/fund-performance-data/?end-type=1&primary-category=SEQ&category=CAT&amc=ALL",
 	"get_avg_aum_url": "https://www.amfiindia.com/modules/AverageAUMDetails",
 	"user_agent": {
@@ -57,7 +57,7 @@
 
 	},
 	"amc": [3, 53, 1, 4, 59, 46, 32, 6, 47, 54, 27, 9, 37, 20, 57, 48, 68, 62, 65, 63, 42, 70, 16, 17, 56, 18, 69, 45, 55, 21, 58, 64, 10, 13, 35,
-		22, 66, 33, 25, 26, 61, 28, 71
+		22, 66, 33, 25, 26, 61, 28, 77, 71
 	],
 	"codes": [{
 			"0P0000XVRM": "Franklin India Liquid Super Institutional Direct Weekly Dividend Payout"
